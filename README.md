@@ -178,5 +178,4 @@ This is a basic program written to allow coaches and players to interact with ea
 | :-------- | :------- | :-------------------------------- |
 | `teamName`      | `string` | **Required** The team you're removing your player from |
 | `username`      | `string` | **Required**. Your player's username|
-# lokkeroom
-# lokkeroom
+
